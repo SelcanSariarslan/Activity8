@@ -1,0 +1,18 @@
+.content{
+	
+	padding: 10px;
+	margin: 10 px;
+	
+}
+#button{
+	width: 80px;
+	margin: 10px;
+}
+#Email{
+	opacity: 0.5;
+}
+label{
+	display: inline-block ;
+	width: 300px;
+	margin: 5px;
+}
